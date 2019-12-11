@@ -110,7 +110,7 @@ author:
   name             : "Gaurav Chaudhary"
   avatar           : "images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer"
-  location         : ""Gurugram, India"
+  location         : ""Gurugram"
   email            :
   links:
     - label: "Email"
