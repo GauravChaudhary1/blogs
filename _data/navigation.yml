@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  #  - title: "Machine Learning"
-    #  url: /machine-learning/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Machine Learning"
+    url: /machine-learning/
+  - title: "SAP UI5"
+    url: /ui5/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
