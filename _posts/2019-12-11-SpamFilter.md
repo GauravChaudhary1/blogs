@@ -1,7 +1,7 @@
+---
+title: "Spam Filter using Logistic Regression"
 
-
-
-
+---
 ```python
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
