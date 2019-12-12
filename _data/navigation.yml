@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: https://gauravchaudhary1.github.io/about/
   - title: "Machine Learning"
     url: /machine-learning/
   - title: "SAP UI5"
