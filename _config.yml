@@ -98,10 +98,7 @@ author:
   bio              : "Developer"
   location         : "Gurugram, India"
   email            : "gauravchaudhary.ait@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:gauravchaudhary.ait@gmail.com
+  links:    
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://gauravchaudhary.in"
