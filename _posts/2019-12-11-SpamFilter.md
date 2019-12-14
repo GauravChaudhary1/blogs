@@ -1,6 +1,7 @@
 ---
 title: "Spam Filter using Logistic Regression"
-
+categories: [machinelearning]
+tags: [spamfilter,python]
 ---
 ```python
 from nltk.tokenize import word_tokenize
