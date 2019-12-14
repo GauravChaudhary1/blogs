@@ -8,7 +8,7 @@ header:
 ---
 
 {% for category in site.categories %}
-{% if category[0] == 'machinelearning' %}
+{% if category[0] == 'ui5' %}
   <ul>
     {% for post in category[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
